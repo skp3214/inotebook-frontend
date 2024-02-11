@@ -1,3 +1,33 @@
+# 📝 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐢𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤 - 𝐀 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐏𝐫𝐨𝐣𝐞𝐜𝐭! 📝
+
+> - I'm excited to my latest project, iNotebook. What sets iNotebook apart is its distinctive approach - the backend and frontend are developed and deployed separately, providing enhanced flexibility and efficiency.
+
+> - 🌐 The backend, crafted with precision using the MEN (MongoDB, Express.js and Node.js) stack, is designed to seamlessly handle data operations, ensuring a robust foundation for our application.
+
+### 🌐𝙞𝙉𝙤𝙩𝙚𝘽𝙤𝙤𝙠 𝘼𝙥𝙞: https://lnkd.in/gRWuNhtT
+
+> 🚀 On the frontend, we've harnessed the power of React to deliver a dynamic and user-friendly interface. But here's the twist - the frontend communicates with the backend through a set of APIs, creating a 
+    decoupled architecture that amplifies scalability and maintainability.
+
+### ✈️𝑳𝒊𝒗𝒆 𝑾𝒆𝒃𝒔𝒊𝒕𝒆: https://lnkd.in/g2yGQzr2
+
+
+#### 📑 Features that make iNotebook shine:
+    - ✨ Add notes effortlessly with title, description, and tags.
+    - 🔄 Your password is saved with hashing
+    - 🚀 Deployed backend API for enhanced performance.
+
+#### 👩‍💻 Dive into the world of iNotebook:
+
+- 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐠𝐢𝐭𝐡𝐮𝐛 𝐫𝐞𝐩𝐨: https://lnkd.in/gBgYef6y
+- 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐠𝐢𝐭𝐡𝐮𝐛 𝐫𝐞𝐩𝐨: https://lnkd.in/gFYAU2gG
+
+> - 🚀I made this project from CodeWithHarry youtube channel.This project is the best approach to understand software development,from this project you can learn how backend and frontend works.
+
+> - In this project there is still stuffs left for improvement.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
